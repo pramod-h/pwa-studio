@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "node_modules/@magento/venia-ui/lib"
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
+}
